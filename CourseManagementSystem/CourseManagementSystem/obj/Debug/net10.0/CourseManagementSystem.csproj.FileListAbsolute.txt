@@ -1,0 +1,14 @@
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\bin\Debug\net10.0\CourseManagementSystem.exe
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\bin\Debug\net10.0\CourseManagementSystem.deps.json
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\bin\Debug\net10.0\CourseManagementSystem.runtimeconfig.json
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\bin\Debug\net10.0\CourseManagementSystem.dll
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\bin\Debug\net10.0\CourseManagementSystem.pdb
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.AssemblyInfo.cs
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.dll
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\obj\Debug\net10.0\refint\CourseManagementSystem.dll
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.pdb
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\obj\Debug\net10.0\CourseManagementSystem.genruntimeconfig.cache
+C:\Users\ПК-ДОМ\RiderProjects\CourseManagementSystem\CourseManagementSystem\obj\Debug\net10.0\ref\CourseManagementSystem.dll
