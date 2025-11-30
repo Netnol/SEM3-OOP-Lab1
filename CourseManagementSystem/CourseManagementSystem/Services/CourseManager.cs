@@ -22,7 +22,7 @@ namespace CourseManagementSystem.Services
         {
             if (_instance == null)
             {
-                lock (Lock)
+                lock (_lock)
                 {
                     _instance ??= new CourseManager();
                 }
